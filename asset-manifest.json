@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hopez/static/css/main.ead4d8df.css",
-    "main.js": "/hopez/static/js/main.966ae918.js",
+    "main.js": "/hopez/static/js/main.ac72cd65.js",
     "static/media/ai.png": "/hopez/static/media/ai.aa60586ba1ba53762d94.png",
     "static/media/possibility.png": "/hopez/static/media/possibility.525f13b61a2157d44de0.png",
     "static/media/blog01.png": "/hopez/static/media/blog01.cefc0932eae0d33a0342.png",
@@ -9,13 +9,14 @@
     "static/media/blog04.png": "/hopez/static/media/blog04.742c1357e7b6c11078e6.png",
     "static/media/blog05.png": "/hopez/static/media/blog05.bfaa1c1e3851158e0e1f.png",
     "static/media/blog02.png": "/hopez/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/medlogo1.jpeg": "/hopez/static/media/medlogo1.d504bb7843ed9bb5efd5.jpeg",
     "static/media/people.png": "/hopez/static/media/people.5cd2d6fbcd48bd63f106.png",
     "index.html": "/hopez/index.html",
     "main.ead4d8df.css.map": "/hopez/static/css/main.ead4d8df.css.map",
-    "main.966ae918.js.map": "/hopez/static/js/main.966ae918.js.map"
+    "main.ac72cd65.js.map": "/hopez/static/js/main.ac72cd65.js.map"
   },
   "entrypoints": [
     "static/css/main.ead4d8df.css",
-    "static/js/main.966ae918.js"
+    "static/js/main.ac72cd65.js"
   ]
 }
